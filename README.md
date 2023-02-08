@@ -7,5 +7,6 @@ pip install beautifulsoup4
 pip install pandas
 pip install requests
 
+https://github.com/MrDeepWolf/python-import-from-web/blob/main/import.py
 
 
